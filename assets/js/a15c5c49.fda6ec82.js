@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{90:function(a){a.exports=JSON.parse('{"allTagsPath":"/kidtalesdead/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/kidtalesdead/blog/tags/docusaurus"}')}}]);
