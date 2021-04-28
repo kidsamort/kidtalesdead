@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{75:function(a){a.exports=JSON.parse('{"allTagsPath":"/kidtalesdead/fr/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/kidtalesdead/fr/blog/tags/hello"}')}}]);
