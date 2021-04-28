@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{88:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Tutorial home","href":"/kidtalesdead/fr/docs/intro"}]},"permalinkToSidebar":{"/kidtalesdead/fr/docs/intro":"tutorialSidebar"}}')}}]);

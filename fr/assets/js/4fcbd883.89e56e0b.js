@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{83:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/kidtalesdead/fr/blog/welcome"},{"title":"Hello","permalink":"/kidtalesdead/fr/blog/hello-world"},{"title":"Hola","permalink":"/kidtalesdead/fr/blog/hola"}]}')}}]);
